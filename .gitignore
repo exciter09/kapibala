@@ -5,5 +5,6 @@ __pycache__/
 .DS_Store
 messages.db
 trace.jsonl
+!evaluation/output/trace.jsonl
 admin_trace.jsonl
 evaluation/output/*.db
